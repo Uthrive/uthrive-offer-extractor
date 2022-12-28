@@ -20,7 +20,7 @@ function offerExtractor(description) {
     qualifyingLimitLang: null,
     qualifyingLimitAmount: 9999999,
     qualifyingFrequencyLang: null,
-    qualifyingFrequency: 255,
+    qualifyingFrequency: 2147483647,
     numOfferLimit: null,
     offerMultipleTransaction: "N",
   };
